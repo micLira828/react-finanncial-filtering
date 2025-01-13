@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Getting Started with the App
 
 Here is the hosted link:
 react-finanncial-filtering-blsn0ams8-miclira828s-projects.vercel.app
